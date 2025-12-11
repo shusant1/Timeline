@@ -19,7 +19,7 @@ body {
     "Segoe UI", sans-serif;
 
   /* soft, calming grey – not bright, not too dark */
-  background:#a7acae;
+  background:#e5e7eb;
   color: #959ba7;
 }
 
@@ -224,4 +224,5 @@ body {
   margin-bottom: 14px;
   letter-spacing: 0.08em;
 }
+
 
