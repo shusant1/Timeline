@@ -108,7 +108,7 @@ body {
   font-family: "Space Grotesk", system-ui, sans-serif; /* futurish vibe */
   font-size: 12.5px;
   font-weight: 400;
-  color: #5b626e; /* neutral grey */
+  color: #ffffff; /* neutral grey */
   text-align: left;
   cursor: pointer;
   position: relative;
@@ -224,6 +224,7 @@ body {
   margin-bottom: 14px;
   letter-spacing: 0.08em;
 }
+
 
 
 
